@@ -32,5 +32,4 @@ def merge_sort(list):
 
     return list
 
-
 print(merge_sort([44, 16, 83, 7, 67, 21, 34, 45, 10]))
