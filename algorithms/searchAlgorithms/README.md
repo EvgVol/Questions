@@ -8,4 +8,5 @@
 В этом разделе представлены следующие алгоритмы поиска:
 - линейный поиск [(linear search)](linearSearch/README.md);
 - бинарный поиск [(binary search)](binarySearch/README.md);
-- интерполяционный поиск [(interpolation search)](interpolationSearch/README.md).
+- интерполяционный поиск [(interpolation search)](interpolationSearch/README.md);
+- поиск в ширину [(breadth-first search)]()
