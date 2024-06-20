@@ -43,7 +43,6 @@ def main():
     # print(food_2.created_at)
     food_1.name = "M"
     print(food_1)
-    
 
 
 if __name__ == "__main__":
