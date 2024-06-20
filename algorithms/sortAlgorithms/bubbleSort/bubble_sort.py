@@ -6,4 +6,3 @@ def bubble_sort(list):
                 list[idx], list[idx+1] = list[idx+1], list[idx]
     return list
 
-print(bubble_sort([25, 21, 22, 24, 23, 27, 26]))

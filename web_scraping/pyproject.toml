@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "web-scraping"
+version = "0.1.0"
+description = ""
+authors = ["Evgeniy V. <volochek93@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+beautifulsoup4 = "^4.12.3"
+lxml = "^5.2.1"
+html5lib = "^1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
