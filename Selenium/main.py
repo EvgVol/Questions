@@ -6,12 +6,14 @@ import time
 
 link = "https://63pokupki.ru/auth#/login"
 
+
 def generator_pwd(num):
     return ''.join(
         [random.choice(
             list('123456789qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM')
         ) for x in range(num)]
     )
+
 
 try:
     browser = webdriver.Chrome()
